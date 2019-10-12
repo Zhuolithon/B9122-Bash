@@ -1,2 +1,0 @@
-      3 Iris-versicolor
-     22 Iris-virginica
