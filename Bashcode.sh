@@ -19,4 +19,5 @@ cut -d ',' -f 2 Q2_head.txt > Q2_cut_class.txt
 sort -t ',' -k5 -d Q2_cut_class.txt > Q2_sort_lexicographically.txt
 
 # count how many of each class are in the largest 25 sepal length
-uniq -c Q2_sort_lexicographically.txt > Q2_uniq.txt
+uniq -c Q2_sort_lexicographically.txt > topsepallength.txt
+
