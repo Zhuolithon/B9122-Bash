@@ -1,7 +1,7 @@
 # B9122-Bash
 
 Question 2: Bash (25 points)
-In class we covered several bash commands. In this exercise you¡¯ll use some of these commands to perform simple analysis on the well know Iris Data Set. A description of this data could be found here.
+In class we covered several bash commands. In this exercise you'll use some of these commands to perform simple analysis on the well know Iris Data Set. A description of this data could be found here.
 
 Use curl to download the data which is located at the following url:
 https://archive.ics.uci.edu/ml/machine-learning-databases/iris/bezdekIris.data
